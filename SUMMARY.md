@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Learns to enter in a BigTech](README.md)
+* [Joining a BigTech](README.md)
 
 ## 💻 Code / System Design Patterns
 
